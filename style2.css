@@ -1,0 +1,89 @@
+
+
+h6{
+ font-size: 30PX;
+ color:white;
+ margin-left: 40%;
+ margin-top: 10px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h5{
+    font-size: 30PX;
+    color:yellow;
+    margin-left: 35%;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+     
+}
+.form1{
+    padding: 150px;
+    margin-top: -690px;
+margin-left: -75px;
+}
+.imgroom{
+margin-top: -700px;
+}
+.imgroom2{
+    margin-top: -100px;
+    border-radius: 0%;
+    border-bottom: 0%;
+
+}
+.form2{
+    padding: 150px;
+    margin-top: -250px;
+    margin-left: 55px;
+}
+.card11{
+    margin-top: -100px;
+    background-color: black;
+  
+   
+}
+.card12{
+    margin-top: -550px;
+    background-color: black;
+  
+}
+.imgroom3{
+    margin-top: 50px;
+    border-radius: 0%;
+    border-bottom: 0%;
+    
+}
+.card{
+    background-color: black;
+}
+.card13{
+    margin-top: 60px;
+}
+.price{
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    padding: 5px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+}
+.price2{
+    position: absolute;
+    top: -25px;
+    left: 10px;
+    padding: 1px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+}
+.price1{
+    position: absolute;
+    top: -450px;
+    left: 10px;
+    padding: 5px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+}
